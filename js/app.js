@@ -16,3 +16,5 @@ myApp.config(['$routeProvider',function($routeProvider){
 	});
 
 }]);
+
+//end of code
